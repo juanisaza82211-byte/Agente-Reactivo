@@ -1,0 +1,22 @@
+# ASP.NET Core
+**/bin/
+**/obj/
+*.db
+*.db-shm
+*.db-wal
+
+# React / Vite
+**/node_modules/
+**/dist/
+
+# Local runtime files
+.codex-run-logs/
+
+# Generated documentation workspace
+documentacion/
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
